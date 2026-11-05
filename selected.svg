@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Selected for: Tavastra VC top 3% of 4,242; IPV Idea School top 100 of 2,000; MeitY TIDE 2.0 grant via NIT Rourkela">
+<rect width="1200" height="190" rx="18" fill="#0d1412"/>
+
+<g>
+  <rect x="48" y="28" width="357" height="134" rx="12" fill="#141d1a" stroke="#26332f"/>
+  <rect x="48" y="28" width="6" height="134" rx="3" fill="#4fc4a9"/>
+  <text x="76" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.4" fill="#93a49f">TAVASTRA VC</text>
+  <text x="74" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#4fc4a9">Top 3%</text>
+  <text x="76" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#93a49f">of 4,242 applicants</text>
+</g>
+<g>
+  <rect x="421" y="28" width="357" height="134" rx="12" fill="#141d1a" stroke="#26332f"/>
+  <rect x="421" y="28" width="6" height="134" rx="3" fill="#e8b54a"/>
+  <text x="449" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.4" fill="#93a49f">IPV IDEA SCHOOL</text>
+  <text x="447" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#e8b54a">Top 100</text>
+  <text x="449" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#93a49f">of 2,000 startups</text>
+</g>
+<g>
+  <rect x="795" y="28" width="357" height="134" rx="12" fill="#141d1a" stroke="#26332f"/>
+  <rect x="795" y="28" width="6" height="134" rx="3" fill="#7fb2ff"/>
+  <text x="823" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.4" fill="#93a49f">MEITY GRANT</text>
+  <text x="821" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#7fb2ff">TIDE 2.0</text>
+  <text x="823" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#93a49f">via NIT Rourkela</text>
+</g>
+</svg>
