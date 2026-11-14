@@ -1,7 +1,7 @@
-<a href="https://roy2231.github.io"><img src="banner.svg" alt="Manas Ranjan Bissoyi. The model is rarely the weak link. The data is." width="100%"></a>
+<a href="https://manasranjanbissoyi.qd.je"><img src="banner.svg" alt="Manas Ranjan Bissoyi. The model is rarely the weak link. The data is." width="100%"></a>
 
 <p align="center">
-  <a href="https://roy2231.github.io"><img src="https://img.shields.io/badge/Website-roy2231.github.io-4fc4a9?style=for-the-badge&labelColor=0d1412" alt="Website"></a>
+  <a href="https://manasranjanbissoyi.qd.je"><img src="https://img.shields.io/badge/Website-manasranjanbissoyi.qd.je-4fc4a9?style=for-the-badge&labelColor=0d1412" alt="Website"></a>
   <a href="https://ateegnas.com"><img src="https://img.shields.io/badge/Ateegnas-ateegnas.com-e8b54a?style=for-the-badge&labelColor=0d1412" alt="Ateegnas"></a>
   <a href="https://www.linkedin.com/in/manas-ranjan-bissoyi-76a29b202"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1412" alt="LinkedIn"></a>
 </p>
