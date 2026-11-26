@@ -10,7 +10,7 @@
 
 ### Hi, I'm Manas 👋
 
-I'm building **[Ateegnas](https://ateegnas.com)**. We help AI companies get clean, reliable data, because good AI starts with good data.
+I'm building **[Ateegnas](https://ateegnas.xyz)**. We help AI companies get clean, reliable data, because good AI starts with good data.
 
 <br>
 
